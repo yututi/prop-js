@@ -5,7 +5,7 @@ Spring bootで利用している.propertiesファイルに定義されたメッ�
 ## インストール
 
 ```
-npm i -D @yututi/prop-js
+npm i @yututi/prop-js
 ```
 
 ## 使い方
