@@ -1,0 +1,22 @@
+{
+  "name": "@yututi/prop-js",
+  "version": "0.0.1",
+  "description": "prop-js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yututi/properties-js.git"
+  },
+  "author": "yututi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yututi/properties-js/issues"
+  },
+  "homepage": "https://github.com/yututi/properties-js#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
