@@ -1,6 +1,6 @@
 # prop-js
 
-Spring bootで利用している.propertiesファイルに定義されたメッセージを`process.msg`に展開します。
+Springで利用しているような.propertiesファイルに定義されたメッセージを`process.msg`に展開します。
 
 ## インストール
 
